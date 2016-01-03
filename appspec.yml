@@ -5,6 +5,3 @@ files:
     destination: C:\inetpub\leghe
 hooks:
   BeforeInstall:
-  AfterInstall:
-  ApplicationStart:
-  ApplicationStop:
