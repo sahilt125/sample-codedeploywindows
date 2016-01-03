@@ -3,7 +3,3 @@ os: windows
 files:
   - source: \
     destination: C:\inetpub\leghe
-hooks:
-  BeforeInstall:
-    - location: \before-install.bat
-      timeout: 900
